@@ -1,4 +1,4 @@
-# 黑丝约-直接约，不闲聊
+# 黑丝吧
 
 ## 技术支持
 
@@ -7,6 +7,6 @@
 
 
 
-邮箱地址：ggx172@163.com
+邮箱地址：mlb3t3@163.com
 
 [隐私协议](https://raw.githubusercontent.com/ggx172/heisiyue/master/privacy.cmd)
